@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai98&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kai98&langs_count=3)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kai98&langs_count=3)
