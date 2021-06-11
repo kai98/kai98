@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai98&count_private=true&show_icons=true)]
+[![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai98&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kai98&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kai98&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 (https://github.com/anuraghazra/github-readme-stats)
